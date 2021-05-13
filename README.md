@@ -33,4 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=textzip&show_icons=true&theme=dark&locale=en&layout=compact" alt="textzip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=textzip&show_icons=true&theme=cobalt&locale=en" alt="textzip" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=textzip&show_icons=true&theme=dark&locale=en" alt="textzip" /></p>
