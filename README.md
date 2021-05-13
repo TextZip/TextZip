@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="banner.png" width="1491" />
 
-<h1 align="center">Hi 👋, I'm Jai</h1>
+<!--<h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">A Robotics Enthusiast from India</h3>
-
+-->
 - 👨‍💻 All of my projects are available at [https://textzip.github.io](https://textzip.github.io)
 
 - 📝 I regularly write articles on [https://textzip.github.io](https://textzip.github.io)
