@@ -3,7 +3,7 @@
 <!--<h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">A Robotics Enthusiast from India</h3>-->
 
-<br></br>
+### Quick Links
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://textzip.github.io)
 
