@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="banner_2.gif" width="1584" height="396" />
+<img align="right" alt="GIF" src="banner.png" width="1584" height="396" />
 
 
 
