@@ -2,16 +2,19 @@
 
 <!--<h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">A Robotics Enthusiast from India</h3>-->
-*** 
-- 👨‍💻 All of my projects are available at [https://textzip.github.io](https://textzip.github.io)
 
-- 📝 I regularly write articles on [https://textzip.github.io](https://textzip.github.io)
+*** 
+
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://textzip.github.io)
+
+- 📝 I regularly write articles on [Portfolio](https://textzip.github.io)
 
 - 📫 How to reach me **textzip@gmail.com**
 
 - 📄 Know about my experiences [https://textzip.github.io/about/](https://textzip.github.io/about/)
 
-### Blogs posts
+### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
 - [AVR Diaries 02 - Interrupts](https://textzip.github.io/posts/AVR-Diaries-02-Interrupts/)
 - [Robotics Theory - 2D Robotics](https://textzip.github.io/posts/2D-Robotics/)
