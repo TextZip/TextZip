@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="banner.png" width="1491" />
 
-<!--<h1 align="center">Hi 👋, I'm Jai</h1>
-<h3 align="center">A Robotics Enthusiast from India</h3>-->
+<h1 align="center">Hi there, Welcome to my Git</h1>
+<h3 align="center">Robotics|Electronics|Desgin</h3>
 
 ### Quick Links
 
