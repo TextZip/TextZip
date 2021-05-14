@@ -42,7 +42,7 @@
 </p>
 <h3 align="left">Electronics:</h3>
 <p align="left"> 
-
+  <a href="https://www.labcenter.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Other Tools:</h3>
 <p align="left"> <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
