@@ -37,15 +37,15 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/matlab-logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Design:</h3>
-<p align="left"> 
+<p align="left"> <a href="https://www.solidworks.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="Solidworks" width="40" height="40"/> </a>
 
 </p>
 <h3 align="left">Electronics:</h3>
 <p align="left"> 
-  <a href="https://www.labcenter.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/> </a>   <a href="https://www.solidworks.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="Solidworks" width="40" height="40"/> </a>
+  <a href="https://www.labcenter.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Other Tools:</h3>
-<p align="left"> <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<p align="left"> <p align="left"> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
