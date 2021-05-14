@@ -37,7 +37,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/matlab-logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Design:</h3>
-<p align="left"> <a href="https://www.solidworks.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="Solidworks" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.solidworks.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="Solidworks" width="40" height="40"/> </a>  <a href="https://www.onshape.com/en/" target="_blank"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="Solidworks" width="40" height="40"/> </a>
 
 </p>
 <h3 align="left">Electronics:</h3>
