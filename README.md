@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="Banner_3.png" width="1491" />
 
 <!--<h2 align="center">Perception is Deception</h1>-->
-<h2 align="center">Robotics | Electronics | Desgin</h3>
+<!--<h2 align="center">Robotics | Electronics | Desgin</h3> -->
 
 ### Quick Links
 
