@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="banner_3.png" width="1491" />
+<img align="right" alt="GIF" src="Banner_3.png" width="1491" />
 
 <!--<h2 align="center">Perception is Deception</h1>-->
 <h2 align="center">Robotics | Electronics | Desgin</h3>
