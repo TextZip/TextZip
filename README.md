@@ -16,7 +16,7 @@
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
 - [AVR Diaries 02 - Interrupts](https://textzip.github.io/posts/AVR-Diaries-02-Interrupts/)
-- [Robotics Theory - 2D Robotics](https://textzip.github.io/posts/2D-Robotics/)
+- [Robotics Theory - 2D Robotics](https://textzip.github.io/posts/Robotics-Theory-2D-Robotics/)
 - [AVR Diaries 03 - Timers](https://textzip.github.io/posts/AVR-Diaries-03-Timers/)
 - [AVR Diaries 01 - Port Manipulation](https://textzip.github.io/posts/AVR-Diaries-01-Port-Manipulation/)
 - [ROS Basics](https://textzip.github.io/posts/ROS-Baiscs/)
