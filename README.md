@@ -16,10 +16,10 @@
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
 - [Aerial Navigation in GPS Denied Environments](https://textzip.github.io/posts/Orthomosaic-SLAM/)
+- [Automation of Oxygen Flow Regulation for COVID-19 Treatement](https://textzip.github.io/posts/COVID19/)
 - [Dino Game Arduino Edition](https://textzip.github.io/posts/Dino-Game-Arduino/)
 - [Manipulator Workspace Plotter](https://textzip.github.io/posts/Manipulator-Workspace-Plotter/)
-- [AVR Diaries 02 - Interrupts](https://textzip.github.io/posts/AVR-Diaries-02-Interrupts/)
-- [Robotics Theory - 2D Robotics](https://textzip.github.io/posts/Robotics-Theory-2D-Robotics/)
+- [Hands On with AVR - 02 Interrupts](https://textzip.github.io/posts/AVR-Diaries-02-Interrupts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
