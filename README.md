@@ -17,9 +17,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Co-Axial Bi-Copter](https://textzip.github.io/posts/CoAxial-Bicopter/)
 - [Aerial Navigation in GPS Denied Environments](https://textzip.github.io/posts/Orthomosaic-SLAM/)
+- [Quasi Direct Drive Actuator](https://textzip.github.io/posts/QDD/)
 - [Automation of Oxygen Flow Regulation for COVID-19 Treatement](https://textzip.github.io/posts/COVID19/)
 - [Dino Game Arduino Edition](https://textzip.github.io/posts/Dino-Game-Arduino/)
-- [Manipulator Workspace Plotter](https://textzip.github.io/posts/Manipulator-Workspace-Plotter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
