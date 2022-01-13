@@ -15,11 +15,11 @@
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
+- [Path Planning](https://textzip.github.io/posts/Path-Planning/)
 - [Lite Bar](https://textzip.github.io/posts/LiteBar/)
 - [POV - Lightsaber](https://textzip.github.io/posts/POV-lightsaber/)
 - [Co-Axial Bi-Copter](https://textzip.github.io/posts/CoAxial-Bicopter/)
 - [Aerial Navigation in GPS Denied Environments](https://textzip.github.io/posts/Orthomosaic-SLAM/)
-- [Quasi Direct Drive Actuator](https://textzip.github.io/posts/QDD/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
