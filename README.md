@@ -15,7 +15,7 @@
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
-- [Path Planning](https://textzip.github.io/posts/Path-Planning/)
+- [Autonomus Ground Vehicle](https://textzip.github.io/posts/AGV/)
 - [URDF](https://textzip.github.io/posts/ROS-URDF/)
 - [Lite Bar](https://textzip.github.io/posts/LiteBar/)
 - [POV - Lightsaber](https://textzip.github.io/posts/POV-lightsaber/)
