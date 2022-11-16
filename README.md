@@ -15,11 +15,11 @@
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
+- [Deep Reinforcement Learning - Part 1 - Multi-Arm Bandits](https://textzip.github.io/posts/DRL-1/)
 - [Autonomus Ground Vehicle](https://textzip.github.io/posts/AGV/)
 - [URDF](https://textzip.github.io/posts/ROS-URDF/)
 - [Lite Bar](https://textzip.github.io/posts/LiteBar/)
 - [POV - Lightsaber](https://textzip.github.io/posts/POV-lightsaber/)
-- [Co-Axial Bi-Copter](https://textzip.github.io/posts/CoAxial-Bicopter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
