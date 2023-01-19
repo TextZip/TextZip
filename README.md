@@ -1,17 +1,19 @@
-<img align="right" alt="GIF" src="banner_new.png" width="1491" />
+<img align="right" alt="GIF" src="banner_new.png" width="1491" />       
 
 <!--<h2 align="center">Perception is Deception</h1>-->
 <!--<h2 align="center">Robotics | Electronics | Desgin</h3> -->
 
+
+
 ### Quick Links
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://textzip.github.io)
+- 👨‍💻 Documentation for most of my robotics adventures can be found [here](https://textzip.github.io/projects/)
 
-- 📝 I regularly write articles on [Portfolio](https://textzip.github.io)
+- 📝 I regularly create resources for learning robotics, check them out [here](https://textzip.github.io/resources/)
 
 - 📫 How to reach me **textzip@gmail.com**
 
-- 📄 Know about my experiences [https://textzip.github.io/about/](https://textzip.github.io/about/)
+- 📄 Know about my experiences [About Me](https://textzip.github.io/about/)
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
