@@ -17,10 +17,10 @@
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
-- [Energy Minimization based Deep Reinforcement Learning Policies for Quadrupeds](https://textzip.github.io/posts/Energy-DRL/)
-- [Deep Reinforcement Learning - Part 2 - Finite MDP](https://textzip.github.io/posts/DRL-2/)
 - [Deep Reinforcement Learning - Part 3 - Dynamic Programming](https://textzip.github.io/posts/DRL-3/)
 - [Deep Reinforcement Learning - Part 0 - Getting Started](https://textzip.github.io/posts/DRL-0/)
+- [Energy Minimization based Deep Reinforcement Learning Policies for Quadrupeds](https://textzip.github.io/posts/Energy-DRL/)
+- [Deep Reinforcement Learning - Part 2 - Finite MDP](https://textzip.github.io/posts/DRL-2/)
 - [Deep Reinforcement Learning - Part 1 - Multi-Arm Bandits](https://textzip.github.io/posts/DRL-1/)
 <!-- BLOG-POST-LIST:END -->
 
