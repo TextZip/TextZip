@@ -24,6 +24,10 @@
 - [Deep Reinforcement Learning - Part 1 - Multi-Arm Bandits](https://textzip.github.io/posts/DRL-1/)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest From My YT
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Hi, I'd love to meet and get to know you better, think we can collaborate ? Feel free to drop me a message. <br>
