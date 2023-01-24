@@ -3,17 +3,18 @@
 <!--<h2 align="center">Perception is Deception</h1>-->
 <!--<h2 align="center">Robotics | Electronics | Desgin</h3> -->
 
+$~$
 
 
 ### Quick Links
 
-- 👨‍💻 Documentation for most of my robotics adventures can be found [here](https://textzip.github.io/projects/)
+- 👨‍💻 Documentation for my projects can be found [here](https://textzip.github.io/projects/)
 
 - 📝 I regularly create resources for learning robotics, check them out [here](https://textzip.github.io/resources/)
 
-- 📫 How to reach me **textzip@gmail.com**
+- 📫 Reach out to me at **textzip@gmail.com**
 
-- 📄 Know about my experiences [About Me](https://textzip.github.io/about/)
+- 📄 Know about my experiences [Here](https://textzip.github.io/about/)
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
@@ -39,13 +40,15 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  Hi, I'd love to meet and get to know you better, think we can collaborate ? Feel free to drop me a message. <br>
+  Think we can collaborate ? Feel free to drop me a message. <br>
 <a href="mailto:textzip@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="jai.krishna.7982" height="30" width="40" /></a>
 <a href="https://facebook.com/jai.krishna.7982/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" alt="jai.krishna.7982" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jai-krishna-9b0663170/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="https://textzip.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
+$~$
 
 <p><img align="left" src="https://github-readme-repo-859lakatt-textzip.vercel.app/api/top-langs?username=textzip&show_icons=true&theme=dark&locale=en&layout=compact" alt="textzip" /></p>
 
