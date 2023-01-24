@@ -25,7 +25,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest From My YT
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM"><img width="140px" src="https://i.ytimg.com/vi/H85NNuzPzLM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM">Trotting - Directional Control using Energy Minimization based Locomotion Policy for Quadrupeds</a><br/>Nov 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=M02tf4fWIHI"><img width="140px" src="https://i.ytimg.com/vi/M02tf4fWIHI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M02tf4fWIHI">Galloping - Directional Control using Energy Minimization based Locomotion Policy for Quadrupeds</a><br/>Oct 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=590fHeeqymI"><img width="140px" src="https://i.ytimg.com/vi/590fHeeqymI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=590fHeeqymI">Energy Minimization based Locomotion Policy for Quadruped - Trot Gait</a><br/>Oct 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hgjm5DERYGM"><img width="140px" src="https://i.ytimg.com/vi/hgjm5DERYGM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hgjm5DERYGM">Energy Minimization based Locomotion Policy for Quadruped - Fast Trot Gait</a><br/>Oct 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=55T5ESUYwDY"><img width="140px" src="https://i.ytimg.com/vi/55T5ESUYwDY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=55T5ESUYwDY">Energy Minimization based Locomotion Policy for Quadruped - Walking Gait</a><br/>Oct 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
