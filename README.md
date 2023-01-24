@@ -23,9 +23,8 @@
 - [Energy Minimization based Deep Reinforcement Learning Policies for Quadrupeds](https://textzip.github.io/posts/Energy-DRL/)
 - [Deep Reinforcement Learning - Part 2 - Finite MDP](https://textzip.github.io/posts/DRL-2/)
 <!-- BLOG-POST-LIST:END -->
+
 ### Latest From My YT
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM"><img width="140px" src="https://i.ytimg.com/vi/H85NNuzPzLM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM">Trotting - Directional Control using Energy Minimization based Locomotion Policy for Quadrupeds</a><br/>Nov 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=M02tf4fWIHI"><img width="140px" src="https://i.ytimg.com/vi/M02tf4fWIHI/mqdefault.jpg"></a></td>
@@ -37,7 +36,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=55T5ESUYwDY"><img width="140px" src="https://i.ytimg.com/vi/55T5ESUYwDY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=55T5ESUYwDY">Energy Minimization based Locomotion Policy for Quadruped - Walking Gait</a><br/>Oct 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
-</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
