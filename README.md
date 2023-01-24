@@ -5,6 +5,8 @@
 
 $~$
 
+### Mentorship/Guidance Hours
+I've committed to set aside 2 hours on the weekends, for mentorship and/or guidance. This is particularly geared towards sophomores and freshmen who wish to get started with robotics. Click [here](https://calendar.app.google/4SSiiENYY4oXaR7aA) to schedule a meet.
 
 ### Quick Links
 
