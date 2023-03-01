@@ -55,3 +55,5 @@ $~$
 <p><img align="left" src="https://github-readme-repo-859lakatt-textzip.vercel.app/api/top-langs?username=textzip&show_icons=true&theme=dark&locale=en&layout=compact" alt="textzip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-repo-859lakatt-textzip.vercel.app/api?username=textzip&show_icons=true&theme=dark&locale=en" alt="textzip" /></p>
+
+![](https://komarev.com/ghpvc/?username=TextZip&style=for-the-badge)
