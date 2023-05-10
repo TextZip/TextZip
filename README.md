@@ -28,7 +28,8 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest From My YouTube
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="https://i.ytimg.com/vi/Mq8utqI5-_g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START -->
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="https://i.ytimg.com/vi/Mq8utqI5-_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g">Applications of Deep Reinforcement Learning for Quadrupeds - Presentation</a><br/>Feb 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EWVXTixD85I"><img width="140px" src="https://i.ytimg.com/vi/EWVXTixD85I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EWVXTixD85I">Autonomous Ground Vehicle with LIDAR and encoders - ROS Demo</a><br/>Feb 21, 2023</td></tr></table>
