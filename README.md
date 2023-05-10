@@ -27,7 +27,7 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 - [Deep Reinforcement Learning - Part 2 - Finite MDP](https://textzip.github.io/posts/DRL-2/)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest From My YT
+### Latest From My YouTube
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="https://i.ytimg.com/vi/Mq8utqI5-_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g">Applications of Deep Reinforcement Learning for Quadrupeds - Presentation</a><br/>Feb 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EWVXTixD85I"><img width="140px" src="https://i.ytimg.com/vi/EWVXTixD85I/mqdefault.jpg"></a></td>
