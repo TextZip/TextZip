@@ -26,15 +26,15 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 
 ### Latest From My YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y"><img width="140px" src="http://img.youtube.com/vi/$videoid/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y"><img width="140px" src="https://i.ytimg.com/vi/YXFAZwNgo7Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y">Deep Reinforcement Learning Policy for Quadruped Locomotion in   Unstructured Terrain - Unitree Go1</a><br/>May 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="http://img.youtube.com/vi/$videoid/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="https://i.ytimg.com/vi/Mq8utqI5-_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g">Applications of Deep Reinforcement Learning for Quadrupeds - Presentation</a><br/>Feb 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EWVXTixD85I"><img width="140px" src="http://img.youtube.com/vi/$videoid/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EWVXTixD85I"><img width="140px" src="https://i.ytimg.com/vi/EWVXTixD85I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EWVXTixD85I">Autonomous Ground Vehicle with LIDAR and encoders - ROS Demo</a><br/>Feb 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4cc_2OeSXDw"><img width="140px" src="http://img.youtube.com/vi/$videoid/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4cc_2OeSXDw"><img width="140px" src="https://i.ytimg.com/vi/4cc_2OeSXDw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4cc_2OeSXDw">Go1 - Walk These Ways Paper Implementation</a><br/>Jan 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM"><img width="140px" src="http://img.youtube.com/vi/$videoid/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM"><img width="140px" src="https://i.ytimg.com/vi/H85NNuzPzLM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H85NNuzPzLM">Trotting - Directional Control using Energy Minimization based Locomotion Policy for Quadrupeds</a><br/>Nov 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
