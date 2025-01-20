@@ -27,6 +27,8 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 ### Latest From My YouTube
 
 <!-- YOUTUBE:START -->
+<table><tr><td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE"><img width="140px" src="http://img.youtube.com/vi/tXi-rkQwmaE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE">SO100 Arm with Intel Realsense D405</a><br/>Jan 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg"><img width="140px" src="http://img.youtube.com/vi/-cx2S0UZeyg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg">MPC vs Basic RL Policy</a><br/>Dec 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y"><img width="140px" src="http://img.youtube.com/vi/YXFAZwNgo7Y/maxresdefault.jpg"></a></td>
@@ -34,9 +36,7 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="http://img.youtube.com/vi/Mq8utqI5-_g/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g">Applications of Deep Reinforcement Learning for Quadrupeds - Presentation</a><br/>Feb 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EWVXTixD85I"><img width="140px" src="http://img.youtube.com/vi/EWVXTixD85I/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EWVXTixD85I">Autonomous Ground Vehicle with LIDAR and encoders - ROS Demo</a><br/>Feb 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4cc_2OeSXDw"><img width="140px" src="http://img.youtube.com/vi/4cc_2OeSXDw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4cc_2OeSXDw">Go1 - Walk These Ways Paper Implementation</a><br/>Jan 30, 2023</td></tr></table><!-- YOUTUBE:END -->
+<td><a href="https://www.youtube.com/watch?v=EWVXTixD85I">Autonomous Ground Vehicle with LIDAR and encoders - ROS Demo</a><br/>Feb 21, 2023</td></tr></table><!-- YOUTUBE:END -->
 
 
 <h3 align="left">Connect with me:</h3>
