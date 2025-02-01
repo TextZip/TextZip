@@ -17,11 +17,11 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 
 ### Latest From My Blog
 <!-- BLOG-POST-LIST:START -->
+- [Bi-Manual Loco-Manipulation in Quadrupeds for Opening Doors](https://textzip.github.io/posts/BiMan-DRL/)
 - [Getting Started with SO100 for Reinforcement Learning](https://textzip.github.io/posts/GS-SO-100/)
-- [Proprioceptive Locomotion in Unstructured Environments](https://textzip.github.io/posts/Loco-DRL/)
-- [Deep Reinforcement Learning - Part 4 - Monte Carlo, Temporal Difference &amp;amp; Bootstrapping Methods](https://textzip.github.io/posts/DRL-4/)
-- [Deep Reinforcement Learning - Part 3 - Dynamic Programming](https://textzip.github.io/posts/DRL-3/)
-- [Deep Reinforcement Learning - Part 0 - Getting Started](https://textzip.github.io/posts/DRL-0/)
+- [Locomotion with Weighted Belief in Exteroception](https://textzip.github.io/posts/LIDAR-DRL/)
+- [Neural Style Transfer for Locomotion](https://textzip.github.io/posts/NST-DRL/)
+- [Policy Modulated Trajectory Generation for Quadrupeds](https://textzip.github.io/posts/FTG-DRL/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest From My YouTube
