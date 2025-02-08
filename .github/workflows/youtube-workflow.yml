@@ -15,5 +15,63 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYcGVOtMxDEnXQs5AMjZFYA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '$newline<table><tr><td><a href="$url"><img width="140px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>'
+          template: |
+            <h3 align="center">🎬 Latest Videos</h3>
+            <div align="center">
+            <table>
+            <tr>
+            
+            <td>
+            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
+            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url"><b>$title</b></a><br>
+            <i>$date</i>
+            </div>
+            </td>
+
+            <td>
+            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
+            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url"><b>$title</b></a><br>
+            <i>$date</i>
+            </div>
+            </td>
+
+            <td>
+            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
+            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url"><b>$title</b></a><br>
+            <i>$date</i>
+            </div>
+            </td>
+
+            </tr>$newline<tr>
+
+            <td>
+            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
+            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url"><b>$title</b></a><br>
+            <i>$date</i>
+            </div>
+            </td>
+
+            <td>
+            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
+            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url"><b>$title</b></a><br>
+            <i>$date</i>
+            </div>
+            </td>
+
+            <td>
+            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
+            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url"><b>$title</b></a><br>
+            <i>$date</i>
+            </div>
+            </td>
+
+            </tr>
+            </table>
+            </div>
           committer_email: "textzip@gmail.com"
