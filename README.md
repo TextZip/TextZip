@@ -27,15 +27,15 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 ### Latest From My YouTube
 
 <!-- YOUTUBE:START -->
-<table><tr><td><a href="https://www.youtube.com/watch?v=WsgMt6tN6nI"><img width="140px" src="http://img.youtube.com/vi/WsgMt6tN6nI/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WsgMt6tN6nI"><img width="140px" src="https://i.ytimg.com/vi/WsgMt6tN6nI/maxresdefault.jpg?t=13214945617"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WsgMt6tN6nI">Deep Reinforcement Learning for Quadrupeds | CNRS - AIST JRL Seminar</a><br/>Feb 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE"><img width="140px" src="http://img.youtube.com/vi/tXi-rkQwmaE/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE"><img width="140px" src="https://i.ytimg.com/vi/tXi-rkQwmaE/maxresdefault.jpg?t=13214945617"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE">SO100 Arm with Intel Realsense D405</a><br/>Jan 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg"><img width="140px" src="http://img.youtube.com/vi/-cx2S0UZeyg/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg"><img width="140px" src="https://i.ytimg.com/vi/-cx2S0UZeyg/maxresdefault.jpg?t=13214945617"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg">MPC vs Basic RL Policy</a><br/>Dec 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y"><img width="140px" src="http://img.youtube.com/vi/YXFAZwNgo7Y/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y"><img width="140px" src="https://i.ytimg.com/vi/YXFAZwNgo7Y/maxresdefault.jpg?t=13214945617"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y">Deep Reinforcement Learning Policy for Quadruped Locomotion in   Unstructured Terrain - Unitree Go1</a><br/>May 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="http://img.youtube.com/vi/Mq8utqI5-_g/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g"><img width="140px" src="https://i.ytimg.com/vi/Mq8utqI5-_g/maxresdefault.jpg?t=13214945617"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mq8utqI5-_g">Applications of Deep Reinforcement Learning for Quadrupeds - Presentation</a><br/>Feb 22, 2023</td></tr></table><!-- YOUTUBE:END -->
 
 
