@@ -17,34 +17,14 @@ jobs:
           date_format: "mmm d, yyyy"
           template: |
             <h3 align="center">🎬 Latest Videos</h3>
-            <div align="center">
-            <table>
-            <tr>
+          
+            <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
             
-            $newline<td>
-            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
-            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
-            <br><a href="$url"><b>$title</b></a><br>
-            <i>$date</i>
+            <div style="background: rgba(255, 255, 255, 0.15); border-radius: 15px; padding: 15px; max-width: 500px; text-align: center; box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.3); transition: transform 0.3s ease-in-out;">
+            <a href="$url"><img width="100%" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
+            <br><a href="$url" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #fff;">$title</a><br>
+            <i style="color: #ddd;">$date</i>
             </div>
-            </td>
           
-            $newline{{#if hasMore}}
-            
-            $newline<td>
-            <div style="border: 2px solid #444; border-radius: 10px; padding: 10px; width: 280px; text-align: center; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);">
-            <a href="$url"><img width="260px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/$videoId/hqdefault.jpg" style="border-radius: 10px;"></a>
-            <br><a href="$url"><b>$title</b></a><br>
-            <i>$date</i>
-            </div>
-            </td>
-          
-            $newline{{/if}}
-          
-            $newline{{#if isLastInRow}}
-            </tr><tr>
-            {{/if}}
-          
-            </table>
             </div>
           committer_email: "textzip@gmail.com"
