@@ -29,8 +29,8 @@ I've committed to set aside 2 hours on the weekends, for mentorship and/or guida
 <!-- YOUTUBE:START -->
 <table><tr><td><a href="https://www.youtube.com/watch?v=WsgMt6tN6nI"><img width="140px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/WsgMt6tN6nI/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WsgMt6tN6nI">Proprioceptive Deep Reinforcement Learning for Quadruped Locomotion | CNRS - AIST JRL Seminar</a><br/>Feb 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE"><img width="140px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/tXi-rkQwmaE/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tXi-rkQwmaE">SO100 Arm with Intel Realsense D405</a><br/>Jan 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/tXi-rkQwmaE"><img width="140px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/tXi-rkQwmaE/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/tXi-rkQwmaE">SO100 Arm with Intel Realsense D405</a><br/>Jan 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg"><img width="140px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/-cx2S0UZeyg/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-cx2S0UZeyg">MPC vs Basic RL Policy</a><br/>Dec 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YXFAZwNgo7Y"><img width="140px" src="https://images.weserv.nl/?url=i.ytimg.com/vi/YXFAZwNgo7Y/hqdefault.jpg"></a></td>
